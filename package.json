@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "name": "react-native-config",
+        "raw": "react-native-config@0.5.0",
+        "rawSpec": "0.5.0",
+        "scope": null,
+        "spec": "0.5.0",
+        "type": "version"
+      },
+      "/Users/giridharsampathkumar/git/NgSalesApp"
+    ]
+  ],
+  "_from": "react-native-config@0.5.0",
+  "_id": "react-native-config@0.5.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-config",
+  "_nodeVersion": "7.7.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-config-0.5.0.tgz_1498004155967_0.5006969291716814"
+  },
+  "_npmUser": {
+    "email": "pedrobelo@gmail.com",
+    "name": "ped"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-config",
+    "raw": "react-native-config@0.5.0",
+    "rawSpec": "0.5.0",
+    "scope": null,
+    "spec": "0.5.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-config/-/react-native-config-0.5.0.tgz",
+  "_shasum": "109aaee511b81851b22e1fd3372d86c9d6c797d4",
+  "_shrinkwrap": null,
+  "_spec": "react-native-config@0.5.0",
+  "_where": "/Users/giridharsampathkumar/git/NgSalesApp",
+  "author": {
+    "name": "Pedro Belo"
+  },
+  "bugs": {
+    "url": "https://github.com/luggg/react-native-config/issues"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "description": "Expose config variables to React Native apps",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "109aaee511b81851b22e1fd3372d86c9d6c797d4",
+    "tarball": "https://registry.npmjs.org/react-native-config/-/react-native-config-0.5.0.tgz"
+  },
+  "files": [
+    "android/",
+    "ios/",
+    "index.js",
+    "react-native-config.podspec"
+  ],
+  "gitHead": "bd20afa38edad5d31d1f852db51705398a44474b",
+  "homepage": "https://github.com/luggg/react-native-config",
+  "keywords": [
+    "env",
+    "config",
+    "config-var",
+    "react-native",
+    "android",
+    "ios",
+    "12factor"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "gantman+npm@gmail.com",
+      "name": "gantman"
+    },
+    {
+      "email": "pedrobelo@gmail.com",
+      "name": "ped"
+    }
+  ],
+  "name": "react-native-config",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luggg/react-native-config.git"
+  },
+  "scripts": {},
+  "version": "0.5.0"
+}
